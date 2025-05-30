@@ -20,7 +20,7 @@ count2 = 0
 count3 = 0
 count4 = 0
 count5 = 0
-
+count6=4
 for number in random_numbers:
     if 1 <= number <= 20:
         count1 += 1
